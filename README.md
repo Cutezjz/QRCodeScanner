@@ -1,0 +1,2 @@
+# QRCodeScanner
+Ionic QRScanner
